@@ -1,0 +1,8 @@
+<?php
+
+/* @var $this yii\web\View */
+use yii\helpers\Url;
+$this->title = 'My Yii Application';
+?>
+
+<h1>История транзакций</h1>
